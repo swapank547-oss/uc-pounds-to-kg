@@ -1,2 +1,21 @@
-# uc-pounds-to-kg
-Pounds to KG / KG to Pounds Converter — free online weight converter
+# Pounds to KG / KG to Pounds Converter
+
+> **Live tool:** [Pounds to KG / KG to Pounds Converter](https://unitscalculator.net/pounds-to-kg/) — part of [UnitsCalculator.net](https://unitscalculator.net)
+
+## About
+
+A free online weight converter. This is a mirror/backup of the live tool running at [UnitsCalculator.net](https://unitscalculator.net).
+
+Convert **Pounds** to **Kg** and vice versa instantly.
+
+## Features
+
+- ✅ Free to use
+- ✅ No sign-up required
+- ✅ Instant, accurate results
+- ✅ Mobile-friendly
+- ✅ Works on all browsers
+
+## 🔗 Try it
+
+[**Launch Pounds to KG / KG to Pounds Converter →**](https://unitscalculator.net/pounds-to-kg/)
